@@ -3,5 +3,5 @@ Biblioteca MyPause para solicitar que o usuário digite ENTER para continuar a e
 
 No argumento da função, deve ser passado o stdin:
   ```C
-  MyPause(stdin);
+  myPause(stdin);
   ```
